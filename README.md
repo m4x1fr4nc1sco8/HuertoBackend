@@ -7,7 +7,7 @@ Microservicio REST en **Spring Boot** que gestiona los datos del huerto escolar 
 
 ## Tecnologías
 
-- Java 21 y Spring Boot (Web, Validation, Data JPA)
+- Java 25 y Spring Boot (Web, Validation, Data JPA)
 - MySQL / MariaDB (XAMPP)
 - Maven Wrapper (`mvnw`)
 - Swagger UI (springdoc-openapi) para documentar y probar la API
@@ -15,7 +15,7 @@ Microservicio REST en **Spring Boot** que gestiona los datos del huerto escolar 
 
 ## Requisitos
 
-- JDK 21
+- JDK 25
 - XAMPP con MySQL (puerto 3306, usuario `root` sin contraseña)
 - Puerto 8080 libre
 
